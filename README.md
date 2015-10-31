@@ -1,5 +1,5 @@
 # login
-Basic login functionality. 
+Basic login/registration functionality. 
 
 Validation is able to be extended or customized
 DB can be extended
